@@ -48,9 +48,6 @@ public class LinkedList<T> {
         }
     }
 
-    public Node getHead() {
-        return head;
-    }
 
     public void print() {
         Node current = head;
